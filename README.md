@@ -1,8 +1,8 @@
 # CS5785-AML-Kaggle-Challenge
- Kaggle Challenge
+ Kaggle Competition
  Team: Alina Patel (ap2599), Haoxiang Zhang (hz795)
  
- Human or AI? — Text Classification
+ Human or AI? — Text Classification 
 
     Overview
 

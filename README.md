@@ -11,3 +11,7 @@
     Given a text passage, the model predicts the probability that it is AI-generated. We compare different text representations and classification models, evaluate their generalization performance, and investigate whether unlabeled data can improve prediction accuracy.
 
     The project is evaluated through a Kaggle competition using the Area Under the ROC Curve (AUROC).
+Dataset
+
+The competition provides the following datasets:
+

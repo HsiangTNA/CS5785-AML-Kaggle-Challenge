@@ -1,0 +1,5 @@
+Dataset,Label,Class,Rows,Share (%)
+train.csv,0,Human,5000,50.0
+train.csv,1,AI,5000,50.0
+train_starter_2000.csv,0,Human,1000,50.0
+train_starter_2000.csv,1,AI,1000,50.0

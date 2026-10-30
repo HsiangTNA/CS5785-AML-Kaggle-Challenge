@@ -1,0 +1,7 @@
+{
+  "seed": 42,
+  "validation_size": 2000,
+  "train_csv_sha256": "325e345faf88fb1c4203278098c282e40319a87b4bf17e094d2f235f51d0c07e",
+  "sklearn_version": "1.6.1",
+  "method": "stratified train_test_split"
+}

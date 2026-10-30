@@ -1,0 +1,13 @@
+Dataset,Column,Data type,Non-null rows
+train.csv,id,int64,10000
+train.csv,text,object,10000
+train.csv,label,int64,10000
+test.csv,id,int64,3000
+test.csv,text,object,3000
+unlabeled.csv,id,int64,3000
+unlabeled.csv,text,object,3000
+train_starter_2000.csv,id,int64,2000
+train_starter_2000.csv,text,object,2000
+train_starter_2000.csv,label,int64,2000
+sample_submission.csv,id,int64,3000
+sample_submission.csv,label,float64,3000

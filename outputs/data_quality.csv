@@ -1,0 +1,6 @@
+Dataset,Missing cells,Duplicate rows,Duplicate IDs,Blank texts,Duplicate texts,Normalized duplicate texts
+train.csv,0,0,0,0,0,0
+test.csv,0,0,0,0,0,0
+unlabeled.csv,0,0,0,0,0,0
+train_starter_2000.csv,0,0,0,0,0,0
+sample_submission.csv,0,0,0,,,

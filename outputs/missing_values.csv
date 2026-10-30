@@ -1,0 +1,13 @@
+Dataset,Column,Missing
+train.csv,id,0
+train.csv,text,0
+train.csv,label,0
+test.csv,id,0
+test.csv,text,0
+unlabeled.csv,id,0
+unlabeled.csv,text,0
+train_starter_2000.csv,id,0
+train_starter_2000.csv,text,0
+train_starter_2000.csv,label,0
+sample_submission.csv,id,0
+sample_submission.csv,label,0

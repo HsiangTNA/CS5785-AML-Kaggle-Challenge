@@ -1,0 +1,19 @@
+{
+  "seed": 42,
+  "validation_size": 2000,
+  "training_sizes": [
+    500,
+    1000,
+    2000,
+    5000,
+    8000
+  ],
+  "decision_threshold": 0.5,
+  "metric": "roc_auc",
+  "label_mapping": {
+    "human": 0,
+    "ai": 1
+  },
+  "data_dir": "/Users/zhanghaoxiang/Desktop/CS5785-AML-Kaggle-Challenge/Data",
+  "output_dir": "/Users/zhanghaoxiang/Desktop/CS5785-AML-Kaggle-Challenge/outputs"
+}

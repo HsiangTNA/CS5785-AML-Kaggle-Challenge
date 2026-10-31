@@ -1,0 +1,6 @@
+Model: Logistic Regression
+Validation AUROC, 500 to 8,000 rows: 0.8513 -> 0.9430
+Overall validation AUROC change: +0.0917
+Validation AUROC change, 5,000 to 8,000 rows: +0.0064
+Training-validation gap, 500 to 8,000 rows: 0.1487 -> 0.0570
+

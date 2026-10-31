@@ -1,0 +1,73 @@
+{
+  "model": "Logistic Regression",
+  "selected_parameters": {
+    "classifier__C": 10.0
+  },
+  "training_sizes": [
+    500,
+    1000,
+    2000,
+    5000,
+    8000
+  ],
+  "sampling_seed": 42,
+  "sampling_method": "Nested stratified subsets, preserving original row order",
+  "validation_rows": 2000,
+  "selection_scope": "Configuration selected using the 8000-row training partition in Section 4",
+  "tfidf_parameters": {
+    "analyzer": "word",
+    "binary": false,
+    "decode_error": "strict",
+    "dtype": "<class 'numpy.float32'>",
+    "encoding": "utf-8",
+    "input": "content",
+    "lowercase": true,
+    "max_df": 1.0,
+    "max_features": 50000,
+    "min_df": 2,
+    "ngram_range": [
+      1,
+      2
+    ],
+    "norm": "l2",
+    "preprocessor": null,
+    "smooth_idf": true,
+    "stop_words": null,
+    "strip_accents": null,
+    "sublinear_tf": true,
+    "token_pattern": "(?u)\\b\\w\\w+\\b",
+    "tokenizer": null,
+    "use_idf": true,
+    "vocabulary": null
+  },
+  "classifier_parameters": {
+    "C": 10.0,
+    "class_weight": null,
+    "dual": false,
+    "fit_intercept": true,
+    "intercept_scaling": 1,
+    "l1_ratio": null,
+    "max_iter": 5000,
+    "multi_class": "deprecated",
+    "n_jobs": null,
+    "penalty": "l2",
+    "random_state": 42,
+    "solver": "liblinear",
+    "tol": 0.0001,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "split_metadata": {
+    "seed": 42,
+    "validation_size": 2000,
+    "train_csv_sha256": "325e345faf88fb1c4203278098c282e40319a87b4bf17e094d2f235f51d0c07e",
+    "sklearn_version": "1.6.1",
+    "method": "stratified train_test_split"
+  },
+  "versions": {
+    "python": "3.9.6",
+    "numpy": "1.26.4",
+    "pandas": "2.3.2",
+    "scikit_learn": "1.6.1"
+  }
+}

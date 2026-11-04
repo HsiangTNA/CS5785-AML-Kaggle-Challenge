@@ -1,0 +1,19 @@
+{
+  "selection_method": "Random sampling without replacement within each error type, after sorting by ID",
+  "seed": 42,
+  "threshold": 0.5,
+  "false_positive_ids": [
+    8395,
+    11,
+    3470,
+    2635,
+    1890
+  ],
+  "false_negative_ids": [
+    8249,
+    6830,
+    8032,
+    3315,
+    5303
+  ]
+}

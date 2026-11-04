@@ -1,0 +1,68 @@
+id,error_type,label,pred_label,prob_ai,words,text
+8395,FP,0,1,0.6391952933862796,171,"Light trapping in sub-wavelength semiconductor nanowires (NWs) offers a
+promising approach to simultaneously reducing material consumption and
+enhancing photovoltaic performance. Nevertheless, the absorption efficiency of
+a NW, defined by the ratio of optical absorption cross section to the NW
+diameter, lingers around 1 in existing NW photonic devices, and the absorption
+enhancement suffers from a narrow spectral width. Here, we show that the
+absorption efficiency can be significantly improved in NWs with higher
+refractive indices, by an experimental observation of up to 350% external
+quantum efficiency (EQE) in lead sulfide (PbS) NW resonators, a 3-fold increase
+compared to Si NWs. Furthermore, broadband absorption enhancement is achieved
+in single tapered NWs, where light of various wavelengths is absorbed at
+segments with different diameters analogous to a tandem solar cell. Overall,
+the single NW Schottky junction solar cells benefit from optical resonance,
+near bandgap open circuit voltage, and long minority carrier diffusion length,
+demonstrating power conversion efficiency (PCE) comparable to single Si NW
+coaxial p-n junction cells11, but with much simpler fabrication processes."
+11,FP,0,1,0.5617608130500634,207,"Producer Mel Gibson will not be using paid advertisements to promote The Passion of the Christ to voters in next year's Academy Awards.
+Gibson and his Icon Productions partner Bruce Davey said they would not be campaigning in print, radio or TV for success at the Oscars in February. ""This film should be judged on its artistic merit, not who spends more money on advertising,"" Davey said. But DVDs will be sent to Oscar voters, who will be invited to screenings. Icon spent very little on advertising the film, which deals with the last hours of Jesus Christ's life, when it was released earlier this year - instead, it made the film available for special screenings at churches. It went on to gross over $600m (£322m) in ticket sales worldwide. Over recent years, marketing films to the members of the Academy of Motion Picture Arts and Sciences has become a multi-million dollar industry. Last year, the academy formed a committee to tighten the rules after the campaigns spilled over into personal attacks between studios. Academy president Frank Pierson praised Gibson's move for working to restore the Oscars as a ""celebration and appreciation of excellence,"" and resisting the ""crass commercialisation that was threatening the integrity of the award""."
+3470,FP,0,1,0.7466429266927221,160,"Chapel Farmhouse and its attached outbuilding, Llanarth, Monmouthshire is a house dating from the 16th century. Greatly enlarged in the 17th century, it remains a private house. It is a Grade II* listed building. History
+Cadw notes the ""eccentric"" relationship"" of the two wings of the house and suggests this is evidence that the house was reconstructed from earlier buildings, probably a 14th century manor house. The architectural historian John Newman notes the ""historically"" important existence of a raised cruck truss in the hall of the house which he suggests places it as a transitional building between the traditional, single-level, Welsh hall house and later, storeyed, buildings. What stands today represents two construction periods of the late 16th and early 17th centuries, with some 19th century reconstruction. The National Trust suggests that Chapel Farm may have operated as the home farm for the Clytha Park Estate. Owned by the Jones family from the 18th century, it remains a private residence."
+2635,FP,0,1,0.6622988090443839,152,"We introduce a method that allows to automatically segment images into
+semantically meaningful regions without human supervision. Derived regions are
+consistent across different images and coincide with human-defined semantic
+classes on some datasets. In cases where semantic regions might be hard for
+human to define and consistently label, our method is still able to find
+meaningful and consistent semantic classes. In our work, we use pretrained
+StyleGAN2~\cite{karras2020analyzing} generative model: clustering in the
+feature space of the generative model allows to discover semantic classes. Once
+classes are discovered, a synthetic dataset with generated images and
+corresponding segmentation masks can be created. After that a segmentation
+model is trained on the synthetic dataset and is able to generalize to real
+images. Additionally, by using CLIP~\cite{radford2021learning} we are able to
+use prompts defined in a natural language to discover some desired semantic
+classes. We test our method on publicly available datasets and show
+state-of-the-art results."
+1890,FP,0,1,0.5448606932834337,192,Hey guys I have a few questions hopefully you all can help. I have some experience lifting but I haven’t been to the gym in slightly over 2 years. When I was working out then I followed a 40/30/30 macro split on the SAD diet anyways I did achieve solid results only speaking on my physique aesthetically real nutrition was definitely lacking. Anyways I stopped working out a little over 2 years ago however 4 months after I stopped lifting I discovered the wfpb diet and have never looked back since. So currently since I’ve eaten right I have been able to maintain a low body fat also my job is physical so I do lift and I’m active physically from that. So I have a solid starting base I’m currently skinny with some muscle not a lot but there is some anyways I want to put on 5 to 10 pounds at the max without getting fat if possible I would like to stay lean. What would be the best way to go about this with a wfpb way of eating. Any help would be greatly appreciated thanks in advance guys.
+8249,FN,1,0,0.22828634860931582,100,"The Jedi Order was brought down by its own ignorance.
+
+The Jedi were so focused on the Light Side of the Force that they neglected the Dark Side. They did not understand the power of the Dark Side, and so they were unprepared for the rise of the Sith.
+
+The Sith were able to take advantage of the Jedi's ignorance, and they used the Dark Side to destroy the Jedi Order.
+
+The Jedi's ignorance was the real downfall of the order. If the Jedi had been more open-minded, they might have been able to prevent the rise of the Sith."
+6830,FN,1,0,0.17076681610125632,185,"Lil' C (born Chris Johnson, July 23, 1987) is an American rapper and actor who became famous in his first season on BET's reality show 106 & Park. He received criticism early on for appropriating gangsta culture by wearing bandanas over his face instead of other forms of facial coverings during filming and rapping about violence and misogyny in songs such as ""Ride or Die"" featuring Lil Boosie. After receiving numerous complaints from viewers and the public, he apologized and altered his image and message to include themes of hope and positivity in his music.
+
+In August 2015, Lil' C released his second album entitled LBC4EVER (Love, Money & Career). The lead single, ""It Gonna Be Alright,"" included a more positive message about faith, determination, and perseverance. In December that year, he signed with Atlantic Records. In January 2016, he competed against Omarion Apollo Brownlee, Jeremiah Williams, Angelicah, Kendrick Dudley and Elijah Wooden in the fourth season of ""The X-Factor USA"". On March 29, 2016, it was announced that Lil' C would join How You Doin'! on Nickelodeon to play a character named ""Big Mac."""
+8032,FN,1,0,0.4736150036875832,327,"Here we present CFPNet-M, a novel network that is composed of multiple neural networks which form the basis of an encoder and a decoder which enable real-time identification of anatomical structures and diseases. CFPNet-M is characterized by its low computational/data bandwidth. It is implemented as a neural network in the form of a sparse matrix. Each neuron receives input from the hidden layer of the encoder and can then forward this to a corresponding decoder neuron. The encoder and the decoder perform two separate tasks - firstly, the encoder takes the data and transforms it into a feature vector and secondly, the decoder takes the encoded feature vector and compares its content with the input feature vector. In both cases, the encoding and decoding phases are independently fast and the performance of the network is evaluated using error histograms. The network can be readily extended with multiple decoders, while maintaining the performance characteristics. We show that CFPNet-M is able to differentiate between healthy and diseased subjects without any training. Although CFPNet-M has performance comparable to state-of-the-art neural networks, CFPNet-M outperforms other encoder-decoders (the state-of-the-art in this context being the ImageNet network) on all tests that measure the identification accuracy. Moreover, this network can efficiently and robustly decode anatomically-relevant data (such as white-matter lesions) and discriminate healthy subjects from diseased subjects using a simple protocol without relying on high-dimensional vector-valued features. These results demonstrate the potential of using light-weight encoders and decoders for unsupervised segmentation of large volumes of images in multimodal situations.
+
+
+I don't see the point of this at all and I am sure the authors are being deliberately deceptive about the advantages of ""light weightencoders"". But the authors have provided a very nice overview of the current state-of-the-art and this is what CFPNet-M is based on.
+
+The authors claim it is a simple ""unsupervised learning"" system but in my humble opinion it is as complex as deep learning
+
+One thing I want to point out"
+3315,FN,1,0,0.3422670110314014,161,"<p>David William Oxtoby (born August 6, 1953) has been the President of Pomona College in Claremont, California and Executive Officer in the National Academy of Sciences since July 2014.^{[1]} A physical chemist, he earned Bachelors, Masters and Ph.D degrees at Columbia University in New York City.</p><!-- InstanceBeginEditable name=""MainBody_body"" -->Oxtoby took his first academic post as a professor of chemistry and materials science at Pennsylvania State University where he was granted tenure in 1987; between 1985-1992, he taught on the faculties of Caltech (Summer Programs), Cornell, Stanford and MIT as visiting lecturer or professor.<br/> He joined Harvey Mudd College as its ninth president in June 2000 before moving to leadership positions in Washington D. C. In April 2011, it was announced that he would take up his new posts starting mid-July.<sup class=""footnote_citation"">[a][b]</sup></p> <h3>Early History Reformations Academia Awards Honors Recognition</h3>
+<ol start=""1""><!-- BeginEdit_toc --><li>August 1970&nbsp;–&nbsp;January 1971</li><ul><li><strong>&#xA;&#xe;""Harvard Summer School for Mathematics and Science (HSSMS)</strong>, Cambridge MA</li><li>May&#xA;–December 1972:</li> <li></li>>>>>See <a href=""/wiki/Template:Gilman""></a><i>Way back machine, 4/23, 5p</i>."
+5303,FN,1,0,0.3183226929595762,230,"Introduction
+
+As the gravitational potential energy of Maxwell's Equations on an idealized four dimensional surface is zero, it follows that any time that the coordinates of the plane of the complex plane are rotated, there is a corresponding reduction in the energy of the gravitational field, an increase in the gravitational potential. The resulting reduction in the energy is termed geometrization.
+
+A proof that geometrization is in fact an emergent result of the geometry of a spacetime geometry is provided by a proof that the geometry of a spacetime geometry is itself a geometrization of itself. The geometry of a spacetime geometry also determines the possible motions of the particles of the gravitational field. Because of the geometrization of the gravitational field, the motion of the particles should be zero. Because of the resulting reduction in the potential energy, this motion is also zero. So, the particle motion should decrease, and, the motion of the particle should match the space-time configuration of the spacetime geometry—that is, the particle should move in the negative velocity of light.
+
+This proof is in addition to the proof that the geometry of spacetime exists, and it is further accompanied by a proof that all particles in one spacetime can travel in one spacetime.
+
+Appendices
+
+The following appendices are provided for the benefit of those who have not yet seen the text of the paper."

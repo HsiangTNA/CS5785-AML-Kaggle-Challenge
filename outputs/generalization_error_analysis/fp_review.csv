@@ -1,0 +1,37 @@
+id,error_type,label,pred_label,prob_ai,words,text
+8395,FP,0,1,0.6391952933862796,171,"Light trapping in sub-wavelength semiconductor nanowires (NWs) offers a
+promising approach to simultaneously reducing material consumption and
+enhancing photovoltaic performance. Nevertheless, the absorption efficiency of
+a NW, defined by the ratio of optical absorption cross section to the NW
+diameter, lingers around 1 in existing NW photonic devices, and the absorption
+enhancement suffers from a narrow spectral width. Here, we show that the
+absorption efficiency can be significantly improved in NWs with higher
+refractive indices, by an experimental observation of up to 350% external
+quantum efficiency (EQE) in lead sulfide (PbS) NW resonators, a 3-fold increase
+compared to Si NWs. Furthermore, broadband absorption enhancement is achieved
+in single tapered NWs, where light of various wavelengths is absorbed at
+segments with different diameters analogous to a tandem solar cell. Overall,
+the single NW Schottky junction solar cells benefit from optical resonance,
+near bandgap open circuit voltage, and long minority carrier diffusion length,
+demonstrating power conversion efficiency (PCE) comparable to single Si NW
+coaxial p-n junction cells11, but with much simpler fabrication processes."
+11,FP,0,1,0.5617608130500634,207,"Producer Mel Gibson will not be using paid advertisements to promote The Passion of the Christ to voters in next year's Academy Awards.
+Gibson and his Icon Productions partner Bruce Davey said they would not be campaigning in print, radio or TV for success at the Oscars in February. ""This film should be judged on its artistic merit, not who spends more money on advertising,"" Davey said. But DVDs will be sent to Oscar voters, who will be invited to screenings. Icon spent very little on advertising the film, which deals with the last hours of Jesus Christ's life, when it was released earlier this year - instead, it made the film available for special screenings at churches. It went on to gross over $600m (£322m) in ticket sales worldwide. Over recent years, marketing films to the members of the Academy of Motion Picture Arts and Sciences has become a multi-million dollar industry. Last year, the academy formed a committee to tighten the rules after the campaigns spilled over into personal attacks between studios. Academy president Frank Pierson praised Gibson's move for working to restore the Oscars as a ""celebration and appreciation of excellence,"" and resisting the ""crass commercialisation that was threatening the integrity of the award""."
+3470,FP,0,1,0.7466429266927221,160,"Chapel Farmhouse and its attached outbuilding, Llanarth, Monmouthshire is a house dating from the 16th century. Greatly enlarged in the 17th century, it remains a private house. It is a Grade II* listed building. History
+Cadw notes the ""eccentric"" relationship"" of the two wings of the house and suggests this is evidence that the house was reconstructed from earlier buildings, probably a 14th century manor house. The architectural historian John Newman notes the ""historically"" important existence of a raised cruck truss in the hall of the house which he suggests places it as a transitional building between the traditional, single-level, Welsh hall house and later, storeyed, buildings. What stands today represents two construction periods of the late 16th and early 17th centuries, with some 19th century reconstruction. The National Trust suggests that Chapel Farm may have operated as the home farm for the Clytha Park Estate. Owned by the Jones family from the 18th century, it remains a private residence."
+2635,FP,0,1,0.6622988090443839,152,"We introduce a method that allows to automatically segment images into
+semantically meaningful regions without human supervision. Derived regions are
+consistent across different images and coincide with human-defined semantic
+classes on some datasets. In cases where semantic regions might be hard for
+human to define and consistently label, our method is still able to find
+meaningful and consistent semantic classes. In our work, we use pretrained
+StyleGAN2~\cite{karras2020analyzing} generative model: clustering in the
+feature space of the generative model allows to discover semantic classes. Once
+classes are discovered, a synthetic dataset with generated images and
+corresponding segmentation masks can be created. After that a segmentation
+model is trained on the synthetic dataset and is able to generalize to real
+images. Additionally, by using CLIP~\cite{radford2021learning} we are able to
+use prompts defined in a natural language to discover some desired semantic
+classes. We test our method on publicly available datasets and show
+state-of-the-art results."
+1890,FP,0,1,0.5448606932834337,192,Hey guys I have a few questions hopefully you all can help. I have some experience lifting but I haven’t been to the gym in slightly over 2 years. When I was working out then I followed a 40/30/30 macro split on the SAD diet anyways I did achieve solid results only speaking on my physique aesthetically real nutrition was definitely lacking. Anyways I stopped working out a little over 2 years ago however 4 months after I stopped lifting I discovered the wfpb diet and have never looked back since. So currently since I’ve eaten right I have been able to maintain a low body fat also my job is physical so I do lift and I’m active physically from that. So I have a solid starting base I’m currently skinny with some muscle not a lot but there is some anyways I want to put on 5 to 10 pounds at the max without getting fat if possible I would like to stay lean. What would be the best way to go about this with a wfpb way of eating. Any help would be greatly appreciated thanks in advance guys.

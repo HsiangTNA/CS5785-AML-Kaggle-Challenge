@@ -25,10 +25,10 @@
     "max_iter": 1000,
     "random_state": 42
   },
-  "tfidf_fit_seconds": 2.960594249999758,
-  "classifier_fit_seconds": 0.301775459000055,
-  "total_fit_seconds": 3.262369708999813,
-  "validation_transform_seconds": 0.3533471669998107,
+  "tfidf_fit_seconds": 3.2112724579999394,
+  "classifier_fit_seconds": 0.2377572919999693,
+  "total_fit_seconds": 3.4490297499999087,
+  "validation_transform_seconds": 0.36479658300004303,
   "train_minus_validation_auroc": 0.05741737499999999,
   "split_metadata": {
     "seed": 42,
